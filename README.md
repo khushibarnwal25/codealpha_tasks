@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,84 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# 🛒 E-Commerce Website
+
+A full-stack E-Commerce Web Application developed using React.js, Node.js, Express.js, and MongoDB.  
+This project was built as part of the CodeAlpha Internship Program to gain practical experience in full-stack web development and backend integration.
+
+---
+
+## 📌 Project Overview
+
+This application allows users to browse products, register/login securely, manage shopping activities, and simulate an online shopping experience with a responsive user interface and backend database support.
+
+The project demonstrates the implementation of frontend development, backend APIs, authentication, database management, and RESTful architecture.
+
+---
+
+## 🚀 Features
+
+### 👤 User Authentication
+- User Registration
+- Secure Login System
+- Authentication Handling
+- Session-based user flow
+
+### 🛍️ Product Management
+- Display Product Listings
+- Product Details Page
+- Dynamic Product Rendering
+
+### 🛒 Shopping Features
+- Add to Cart Functionality
+- Cart Management
+- Order Processing System
+
+### 💻 User Interface
+- Responsive Design
+- Clean and Interactive UI
+- Smooth Navigation Experience
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools & Platforms
+- VS Code
+- Git & GitHub
+- Postman
+
+---
+
+## 📂 Project Structure
+
+```bash
+ecommerce-project/
+│
+├── frontend/
+│   ├── src/
+│   ├── assets/
+│   └── components/
+│
+├── ecommerce-node/
+│   ├── routes/
+│   ├── models/
+│   ├── controllers/
+│   └── server.js
+│
+└── README.md
+>>>>>>> 597e9778b3192b6ba44bc1d20967ac77a1b76ba7
